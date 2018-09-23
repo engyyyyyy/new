@@ -1,0 +1,190 @@
+@media (width: 320px){
+  /* .content{background:url("../img/39132350_232069624171049_7577466094294663168_n.jpg") no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:100%;height:auto;} */
+  .jumbotron h1{
+    font-size:30px;
+    margin-bottom:30px;
+
+  }
+  .jumbotron p{
+    font-size:20px !important;
+  }
+  .card-body .lead{
+    font-size:15px !important;
+  }
+  .card-body a{
+    font-size:12px !important;
+  }
+  #imgg{
+    margin-top:20px;
+  }
+  .our-clients img{
+    margin-left:10px;
+  }
+  .form-group textarea {
+
+      width: 80%;
+  }
+  .class{
+    margin-right:60% !important;
+  }
+  .skills-info h1{
+    font-size:30px;
+  }
+  .text-white .lead{
+    font-size:20px !important;
+  }
+  .text-white h2{
+    font-size:12px !important;
+  }
+  .s{
+    font-size:15px;
+  }
+
+#div{
+  margin-top:-30%;
+}
+
+
+}
+@media (width: 320px){
+  .img-circle{
+     margin-left: 50px !important;
+  }
+}
+@media (min-width: 576px)  {
+  /* .content{background:url("../img/39132350_232069624171049_7577466094294663168_n.jpg") no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:100%;height:auto;} */
+  .text-white h2 {
+      font-size:32px !important;
+  }
+  .text-white .lead{
+      font-size:65px !important;
+  }
+  /* .person img {
+    margin-left: 70px !important;
+} */
+  .img-circle{
+    width:150px;
+    margin-top:100px !important;
+
+  }
+  #person{
+    margin-top:-100% !important;
+  }
+
+  .form-group textarea{
+    width:100% !important;
+  }
+  .form-group{
+    width:100% !important;
+  }
+
+  /* .person img{
+    margin-left:0px !important;
+  } */
+  #imgg{
+    margin-top:0px !important
+  }
+
+
+ }
+ @media (max-width:  767.98px){
+   /* .content{background:url("../img/39132350_232069624171049_7577466094294663168_n.jpg") no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:100%;height:auto;} */
+
+   .img-circle{
+     width:150px;
+     margin-top:100px !important;
+
+   }
+   #person{
+     margin-top:-100% !important;
+   }
+
+   .form-group textarea{
+     width:100% !important;
+   }
+   .form-group{
+     width:100% !important;
+   }
+   .text-white .lead{
+     font-size:25px !important;
+   }
+   .text-white h2{
+     font-size:18px !important;
+   }
+
+   #imgg{
+     margin-top:0px !important
+   }
+ }
+ @media (min-width: 768px) {
+
+
+
+/* .media-heading1{
+  font-size:10px !important;
+} */
+}
+ @media (width: 360px){
+   .person img{
+     margin-left:70px;
+   }
+ }
+ @media (width: 411px){
+   .person img{
+     margin-left:100px;
+   }
+ }
+   @media (width: 375px){
+     .person img{
+       margin-left:80px !important;
+     }
+   }
+   @media (width: 414px){
+     .person img{
+       margin-left:110px !important;
+     }
+   }
+@media (width:360){
+  .skills-info span{
+    font-size:30px !important;
+  }
+}
+@media (max-width:800px){
+  .col-sm-5 .time h1{
+    font-size:17px !important;
+  }
+  .col-sm-5 .time p{
+    font-size:15px !important;
+  }
+  .col-sm-5 .media-heading1{
+    font-size:13px !important;
+  }
+  .a{
+    margin-right: 30% !important;
+  }
+
+   .card p{
+    font-size:13px !important;
+  }
+   .card a{
+    font-size:13px !important;
+  }
+   .card{
+    height:100%;
+
+  }
+  .skills-info h1{
+    font-size:25px;
+  }
+  .jumbotron h1{
+    font-size:25px;
+  }
+  .jumbotron .text-center{
+    margin-bottom:20%;
+  }
+}
+@media (width: 768px){
+.person img {
+    margin-left: 0px !important;
+}
+}
